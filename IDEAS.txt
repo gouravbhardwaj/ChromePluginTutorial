@@ -1,0 +1,54 @@
+Phase 1 : Identify key areas in the debug log
+
+
+
+
+Method Entry / Exit                               green    font : #3c763d  bg :#dff0d8
+Callouts   : CALLOUT_REQUEST , CALLOUT_RESPONSE   blue            #0c4040      #85f1f1;
+Variable Assignment : VARIABLE_ASSIGNMENT         violet          #0b0638      #9185f1;
+User Debug										  white			  #38240c      #f1c185;	
+Error											  red
+Usage											  Orange	
+
+			
+Identify :::
+
+Process Builder
+
+Workflow rules                                					35081d        fdc5df
+
+validation rules  
+
+
+Phase 2 :
+===============================
+Log LIST : 
+Only Mine
+latest one 
+Live filter data, like sort by, user, 
+
+
+Debug Health
+Usage Graph
+
+Phase 3 :
+==============================
+Code Covered Graph
+Class Method listing
+User can click on the method and class name and see where it is covered in the debug log.
+
+Url ref in the class, method name. The user can click on the class name in the log and will be redirected to a new page which has that class name.
+
+
+
+
+
+
+
+
+
+
+=======================================
+Jobs in Queue
+Cases / Leads in Queue
+

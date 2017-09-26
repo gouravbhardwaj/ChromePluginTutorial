@@ -1,0 +1,25 @@
+.Error{
+	background: #280000;
+	color: hsl(0, 100%, 75%) !important;
+	font-family: monospace;
+}
+
+.UserDebug{
+	color: rgba(255, 255, 255, 0.81);
+	
+	font-family: monospace;
+}
+
+table{
+	width:100%
+}
+
+thead{
+	background: #303030;
+	color: #a09f9f;
+	font-family: monospace;
+}
+
+thead .message{
+	width: 95%;
+}
